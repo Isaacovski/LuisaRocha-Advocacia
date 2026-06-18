@@ -1,9 +1,12 @@
+
+
 *{
     margin:0;
     padding:0;
     box-sizing:border-box;
     font-family:'Inter',sans-serif;
 }
+
 
 html{
     scroll-behavior:smooth;
@@ -14,6 +17,8 @@ body{
     color:white;
     overflow-x:hidden;
 }
+
+
 
 /* SCROLLBAR */
 
@@ -334,10 +339,7 @@ section{
 
 /* FOOTER */
 
-footer{
-    padding:50px 0;
-    border-top:1px solid rgba(255,255,255,.06);
-}
+
 
 .footer-content{
     display:flex;
